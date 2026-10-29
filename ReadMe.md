@@ -1,5 +1,81 @@
 # 💫 About Me:
-MIS Executive | Aspiring Data Scientist | SQL, Python, Power BI, Excel & Machine Learning | Building data-driven projects and analytical solutions.
+<div align="center">
+
+# 👋 Hi, I'm Munna Bhardwaj
+
+### Aspiring Data Scientist | Data Analytics | Machine Learning
+
+**Turning Data into Insights and Ideas into Solutions**
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN_URL)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 📊 MIS professional experienced in reporting, KPI tracking, and dashboard development.
+- 🐍 Working with Python, SQL, and data analysis tools.
+- 🤖 Learning Machine Learning and predictive modeling.
+- 📈 Interested in statistical analysis, data visualization, and business intelligence.
+- 🚀 Building practical projects to solve real-world data problems.
+- 🎯 Goal: Grow into a skilled Data Scientist through continuous learning and hands-on projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Analysis
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=013243)
+
+### 📊 Visualization & BI
+![Power BI](https://img.shields.io/badge/Power_BI-111111?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Plotly](https://img.shields.io/badge/Plotly-111111?style=flat-square&logo=plotly&logoColor=3F4F75)
+![Excel](https://img.shields.io/badge/Excel-111111?style=flat-square&logo=microsoftexcel&logoColor=217346)
+
+### 🤖 Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+
+### 🔧 Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=flat-square&logo=jupyter&logoColor=F37626)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-111111?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+
+---
+
+## 🚀 Featured Projects
+
+- 📈 **CAPM Stock Analysis** — Stock return analysis and financial visualization.
+- 📊 **Data Analytics Dashboards** — Interactive dashboards and business insights.
+- 🤖 **Machine Learning Projects** — Regression and classification model experiments.
+
+Explore my repositories for project details, code, and insights.
+
+---
+
+## 📚 Currently Learning
+
+- Statistics and Mathematics for Data Science
+- Machine Learning Algorithms
+- Feature Engineering and Model Evaluation
+- End-to-End Data Science Projects
+
+---
+
+<div align="center">
+
+### 💡 Learn. Build. Analyze. Repeat.
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+
+</div>.
 
 
 ## 🌐 Socials:
